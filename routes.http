@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://node-do-zero-poze.onrender.com/videos
 Content-Type: application/json
 
 {
@@ -9,11 +9,11 @@ Content-Type: application/json
 
 
 ###
-GET http://localhost:3333/videos
+GET https://node-do-zero-poze.onrender.com/videos
 
 
 ###
-PUT http://localhost:3333/videos/c697d501-6a7c-4b5e-af40-266f2f80a4fc
+PUT https://node-do-zero-poze.onrender.com/videos/c697d501-6a7c-4b5e-af40-266f2f80a4fc
 Content-Type: application/json
 
 {
@@ -23,6 +23,6 @@ Content-Type: application/json
 }
 
 ###
-DELETE http://localhost:3333/videos/5bfb6423-20d7-4f3f-a64c-2b02dca59a2d
+DELETE https://node-do-zero-poze.onrender.com/videos/08044b03-b7d7-4d64-93ea-49d16de28d50
 
 
